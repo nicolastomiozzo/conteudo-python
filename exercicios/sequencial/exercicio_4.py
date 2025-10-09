@@ -9,3 +9,4 @@ media = soma / 4
 media_outro = (nota_1 + nota_2 + nota_3 + nota_4) / 4
 
 print("A média do aluno é: ",media)
+

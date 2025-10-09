@@ -5,7 +5,7 @@
 # nome = "Nicolas" <- Crie uma variavel nome que recebe o valor "Nicolas"
 
 nome = "Nicolas"
-salario = 1000000.00
+salario = 40000000.00
 dias_trabalhados = 1
 print("O funcionário é",nome)
 print("Ele trabalhou",dias_trabalhados,"dias")
